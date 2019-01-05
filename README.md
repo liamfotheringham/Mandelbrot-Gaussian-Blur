@@ -8,7 +8,7 @@ Application generates a Mandelbrot Set and applies a gaussian blur to the genera
 ## Calculation Process
 ![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/CalculationProcess.png)
 ## Task Decomposition
-![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/TaskDecomposition.png)
+![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/TeskDecomposition.png)
 ## Generated Outputs
 ![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/GeneratedOutputs.png)
 ## Critical Evaluation
