@@ -9,6 +9,8 @@ Application generates a Mandelbrot Set and applies a gaussian blur to the genera
 ![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/CalculationProcess.png)
 ## Task Decomposition
 ![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/TeskDecomposition.png)
+* Breaks Image into 'Tiles'
+* Works Through the Extent, Calculating Each Weighted Pixel
 ## Generated Outputs
 ![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/GeneratedOutputs.png)
 ## Critical Evaluation
