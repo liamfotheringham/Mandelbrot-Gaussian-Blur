@@ -6,8 +6,11 @@ Application generates a Mandelbrot Set and applies a gaussian blur to the genera
 * Uses AMP GPGPU Processing to Apply Filter and Calculate New Weighted Pixel
 * Task Decomposed Using Tiled GPGPU Processing
 ## Calculation Process
+![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/CalculationProcess.png)
 ## Task Decomposition
+![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/CalculationProcess.png)
 ## Generated Outputs
+![alt text](https://github.com/liamfotheringham/Mandelbrot-Gaussian-Blur/blob/master/ReadMe%20images/CalculationProcess.png)
 ## Critical Evaluation
 Rethink Use of Tiles
 
