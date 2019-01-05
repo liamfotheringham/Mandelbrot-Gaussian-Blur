@@ -1,0 +1,23 @@
+﻿  mandelbrot.cpp
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(271): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(349): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(350): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(351): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(306): warning C4101: 'kernelCentreX': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(311): warning C4101: 'sum': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(306): warning C4101: 'kernelCentreY': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(424): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(425): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(426): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(382): warning C4101: 'kernelCentreX': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(393): warning C4101: 'newPixel': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(382): warning C4101: 'kernelCentreY': unreferenced local variable
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(457): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\year 2\data structures and algorithms 2\assessment\mandelbrot\mandelbrot\mandelbrot.cpp(466): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+mandelbrot.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  mandelbrot.vcxproj -> D:\Year 2\Data Structures and Algorithms 2\Assessment\mandelbrot\x64\Debug\mandelbrot.exe
+  mandelbrot.vcxproj -> D:\Year 2\Data Structures and Algorithms 2\Assessment\mandelbrot\x64\Debug\mandelbrot.pdb (Full PDB)
